@@ -338,28 +338,7 @@ int main()
 {
 
   // int arr[] = {0,0,0, 2, 1, 1, 3, 5,0,0, 6,0, 0 , 0};
-  // int size = sizeof(arr) / sizeof(arr[0]);
-
-  // sort(arr,size);
-  int arr[] = {1,2,3,4};
-  char* var = joinn(arr,4,'-');
-
-
-  // int a = findLastIndex(arr, size, prov);
-  // printf("%d" ,a);
-   
-  // int* a = slice(arr,size,-2);
-
   // int *a = filter(arr, size, cmp);
-  // int sie = sizeof(a) / sizeof(a[0]);
-  // // printf("%d" , size);
-  for (int i = 0; var[i] != '\0'; i++) {
-        printf("%c", var[i]);
-    }
-    printf("\n");
-  
-
-
   // int i = some(arr, size, tes);
   // printf("%d ", i);
   // printf("%d ", lastIndexOf(arr,size,1));
